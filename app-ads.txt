@@ -1,0 +1,9 @@
+# app-ads.txt
+# This file authorizes ad networks to serve ads in apps by ShimSho.
+# Format: <ad network domain>, <publisher ID>, <relationship type>, <certification authority ID>
+#
+# ⚠️  ACTION REQUIRED before going live:
+#   Replace "pub-XXXXXXXXXXXXXXXX" below with your actual Google AdMob publisher ID.
+#   Find it in the AdMob console: Account > Account information > Publisher ID.
+#
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
