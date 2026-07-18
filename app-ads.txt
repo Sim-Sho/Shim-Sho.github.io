@@ -4,8 +4,4 @@
 #
 # App: Noise Vibe Spectrum (https://apps.apple.com/us/app/noise-vibe-spectrum/id6758724499)
 #
-# ⚠️  ACTION REQUIRED before going live:
-#   Replace "pub-XXXXXXXXXXXXXXXX" below with your actual Google AdMob publisher ID.
-#   Find it in the AdMob console: Account > Account information > Publisher ID.
-#
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-7035933930986329, DIRECT, f08c47fec0942fa0
